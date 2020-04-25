@@ -5,7 +5,7 @@
         * 2.9.4 version of jackson library,
         * Java 12
         * Maven 3.8.0
-   * pom.xml of this application will create a WAR file. Use `mvn clean install` command to create WAR file from source directory. Place the war file in `webapps` folder of tomcat server before starting it. 
+   * pom.xml of this application will create a WAR file. Use `mvn clean install` command to create WAR file from source directory. Copy the war from `springmvc-rest-application/target` folder and place the war file in `webapps` folder of tomcat server before starting it. 
 
 Please see to pom.xml for more details about dependencies.
 
