@@ -8,7 +8,7 @@
   <name>springmvc-rest-application Maven Webapp</name>
   
   <properties>
-        <springframework.version>5.0.0.RELEASE</springframework.version>
+        <springframework.version>5.3.19</springframework.version>
         <jackson.library>2.9.4</jackson.library>
    </properties>
   
